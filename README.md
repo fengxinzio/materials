@@ -44,6 +44,7 @@ this document is for organizing some learning materials
 - [pytorch中文文档](https://pytorch-cn.readthedocs.io/zh/latest/)  
 - [numpy](https://docs.scipy.org/doc/numpy/user/quickstart.html)  
 - [相关教程1](https://machinelearningmastery.com/blog/) 
+- [machinelearningmastery](https://machinelearningmastery.com/blog/)
 
 # opencv相关项目教程  
 - 1.https://www.pyimagesearch.com/  
